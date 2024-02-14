@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df63c839f6b7eb4498a1d500eb59e2f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinPrefab: {fileID: 681084056512101516, guid: 86f8181616978294497bf5163d10ff68, type: 3}
+  - obstaclePrefab: {fileID: 3513120157906751832, guid: 02a82e7a718df8749aeb913af3ed8032, type: 3}
+  - shieldTPrefab: {fileID: 159471354105168241, guid: 0ab7db68606471c4b9fd326100bfa1aa, type: 3}
+  - enemyPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
